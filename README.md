@@ -127,14 +127,14 @@
 ## Contribution Skyline - 2020
 <p>
   <a href="https://skyline.github.com/Anthony64M/2020" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2020.stl" alt="Skyline Github Contributon 2020" />
+    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2020.gif" alt="Skyline Github Contributon 2020" />
   </a>
 </p>
 
 ## Contribution Skyline - 2021
 <p>
   <a href="https://skyline.github.com/Anthony64M/2021" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.stl" alt="Skyline Github Contributon 2021" />
+    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" />
   </a>
 </p>
 
@@ -142,7 +142,7 @@
 ## Contribution Skyline - 2022
 <p>
   <a href="https://skyline.github.com/Anthony64M/2022" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2022.stl" alt="Skyline Github Contributon 2022" />
+    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2022.gif" alt="Skyline Github Contributon 2022" />
   </a>
 </p>
 
