@@ -124,27 +124,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anthony64M&theme=nord_dark)
 
 
-## Contribution Skyline - 2020
-<p>
-  <a href="https://skyline.github.com/Anthony64M/2020" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2020.gif" alt="Skyline Github Contributon 2020" />
-  </a>
-</p>
-
 ## Contribution Skyline - 2021
-<p>
-  <a href="https://skyline.github.com/Anthony64M/2021" target="_blank">
-    <video height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" />
-  </a>
-</p>
+<video src='https://github.com/Anthony64M/Anthony64M/blob/main/screen-capture%20(2).webm' width=180/>
 
 
-## Contribution Skyline - 2022
-<p>
-  <a href="https://skyline.github.com/Anthony64M/2022" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2022.gif" alt="Skyline Github Contributon 2022" />
-  </a>
-</p>
 
 # My Recent Activity on GitHub
 <!--END_SECTION:activity-->
