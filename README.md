@@ -153,9 +153,3 @@
 
 [![](./images/peerlist-profile.png)](https://peerlist.io/anthony64m)
 
-
-
-
-<p align="center">
-  <img src="https://github.com/anthony64m/anthony64m/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
-</p>
