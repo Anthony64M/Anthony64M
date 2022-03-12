@@ -134,7 +134,7 @@
 ## Contribution Skyline - 2021
 <p>
   <a href="https://skyline.github.com/Anthony64M/2021" target="_blank">
-    <img height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" />
+    <video height="400" width="auto" src="./Skyline-Github-Contributons/Skyline-Github-Contributon-2021.gif" alt="Skyline Github Contributon 2021" />
   </a>
 </p>
 
