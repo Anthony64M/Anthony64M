@@ -6,7 +6,7 @@
 <hr/>
 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="Anthony64M" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthony64M" alt="Anthony64M" /></p>
 
 ## 🛠️ My Skills
 
