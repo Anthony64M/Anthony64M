@@ -1,137 +1,103 @@
-<h1 align="center">Welcome to ANTHONY's Interactive Portfolio 🚀</h1>
+<h1 align="center">Welcome to Anthony's Coding Universe 🚀</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;AI+Enthusiast;Always+Learning&center=true&width=380&height=45">
 </p>
 
-<div align="center">
-  <h2>🎮 Start Your Adventure!</h2>
-  <p>Choose your path to explore Anthony's skills and achievements:</p>
-  <a href="#coding-skills">🖥️ Coding Skills</a> | 
-  <a href="#design-prowess">🎨 Design Prowess</a> | 
-  <a href="#data-analysis">📊 Data Analysis</a> | 
-  <a href="#github-stats">📈 GitHub Stats</a>
-</div>
+<p align="center">
+  <a href="#projects">
+    <img src="https://img.shields.io/badge/-Projects-blue?style=for-the-badge" alt="Projects">
+  </a>
+  <a href="#skills">
+    <img src="https://img.shields.io/badge/-Skills-green?style=for-the-badge" alt="Skills">
+  </a>
+  <a href="#contact">
+    <img src="https://img.shields.io/badge/-Contact-red?style=for-the-badge" alt="Contact">
+  </a>
+</p>
 
-<hr/>
+<h2 id="projects">🚀 Featured Projects</h2>
 
-<h2 id="coding-skills">🖥️ Coding Skills</h2>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Project 1</h3>
+      <p align="center">
+        <a href="https://github.com/yourusername/project1" target="_blank">
+          <img src="https://via.placeholder.com/300x200" width="300" alt="Project 1">
+        </a>
+        <p align="center">
+          A brief description of Project 1
+        </p>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Project 2</h3>
+      <p align="center">
+        <a href="https://github.com/yourusername/project2" target="_blank">
+          <img src="https://via.placeholder.com/300x200" width="300" alt="Project 2">
+        </a>
+        <p align="center">
+          A brief description of Project 2
+        </p>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <h3>Language Proficiency</h3>
-  <img src="https://skillicons.dev/icons?i=js,python,php,html,css" />
-  
-  <h3>Framework Expertise</h3>
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs,express" />
-  
-  <h3>Database Mastery</h3>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
-</div>
+<h2 id="skills">💻 Skills</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
 <details>
-  <summary>🔥 Coding Streak</summary>
-  <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthony64M&theme=radical" alt="Anthony64M" />
-  </p>
+  <summary>View More Skills</summary>
+  
+  ### Frontend
+  - HTML5, CSS3, JavaScript (ES6+)
+  - React, Vue.js
+  - Responsive Web Design
+  
+  ### Backend
+  - Node.js, Express
+  - Python, Django
+  - RESTful API Design
+  
+  ### Database
+  - MongoDB
+  - PostgreSQL
+  
+  ### DevOps
+  - Git, GitHub
+  - Docker
+  - CI/CD pipelines
 </details>
 
-<h2 id="design-prowess">🎨 Design Prowess</h2>
+<h2 id="contact">📫 Let's Connect</h2>
 
-<div align="center">
-  <h3>Design Tools</h3>
-  <img src="https://skillicons.dev/icons?i=ai,ps,figma,xd" />
-  
-  <details>
-    <summary>🖼️ View Design Portfolio</summary>
-    <p>Coming soon! Anthony is working on a stunning visual showcase of his design projects.</p>
-  </details>
-</div>
-
-<h2 id="data-analysis">📊 Data Analysis</h2>
-
-<div align="center">
-  <h3>Anthony's GitHub Language Distribution</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony64M&layout=compact&theme=radical" alt="Top Languages" />
-  
-  <h3>Contribution Heatmap</h3>
-  <img src="https://ghchart.rshah.org/Anthony64M" alt="Anthony64M's Github chart" />
-</div>
-
-<h2 id="github-stats">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anthony64M&theme=darkhub&no-frame=true&row=1&column=6" alt="trophy" />
-  
-  <h3>Activity Overview</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthony64M&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<h2>🌟 Interactive Skill Showcase</h2>
-
-<div align="center">
-  <h3>Hover over a skill to see proficiency!</h3>
-</div>
-
-```html
-<style>
-  .skill-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-  .skill {
-    padding: 10px;
-    background-color: #2c3e50;
-    border-radius: 5px;
-    color: white;
-    cursor: pointer;
-    transition: all 0.3s ease;
-  }
-  .skill:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 10px rgba(255,255,255,0.5);
-  }
-  .skill[data-level="Beginner"] { background-color: #e74c3c; }
-  .skill[data-level="Intermediate"] { background-color: #f39c12; }
-  .skill[data-level="Advanced"] { background-color: #2ecc71; }
-</style>
-
-<div class="skill-container">
-  <div class="skill" data-level="Advanced" title="Advanced">JavaScript</div>
-  <div class="skill" data-level="Intermediate" title="Intermediate">Python</div>
-  <div class="skill" data-level="Advanced" title="Advanced">HTML/CSS</div>
-  <div class="skill" data-level="Intermediate" title="Intermediate">React</div>
-  <div class="skill" data-level="Beginner" title="Beginner">Vue.js</div>
-  <div class="skill" data-level="Advanced" title="Advanced">Git</div>
-  <div class="skill" data-level="Intermediate" title="Intermediate">SQL</div>
-  <div class="skill" data-level="Advanced" title="Advanced">Photoshop</div>
-</div>
-```
-
-<h2>🎵 Currently Vibing To</h2>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=r2vtb5bdu4444k29igk0xqk3k&cover_image=true&theme=default" alt="Spotify" />
-</div>
-
-<h2>📫 Let's Connect!</h2>
-
-<div align="center">
-  <a href="https://github.com/Anthony64M" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
+</p>
 
-<hr/>
+<hr>
 
-<div align="center">
-  <h3>Thanks for visiting! Here's a cookie for you: 🍪</h3>
-  <img src="https://profile-counter.glitch.me/Anthony64M/count.svg" alt="Visitor Count" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  Thanks for visiting! Here's a joke to brighten your day:
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card">
+</p>
